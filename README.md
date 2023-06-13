@@ -1,2 +1,2 @@
-# Slot_Machine
+## Slot -Machine
 Using python implemented a slot machine 
